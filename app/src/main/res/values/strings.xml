@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="home">主页</string>
+    <string name="more">更多</string>
+    <string name="add">添加</string>
+    <string name="user">用户</string>
+</resources>
